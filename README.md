@@ -1,2 +1,2 @@
 # omeh
-okay
+bye
